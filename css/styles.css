@@ -23,6 +23,13 @@ h1 {
 }
 
 .intro {
-  background-color: black;
+  background-color: #003333;
   color: white;
+}
+
+.test-box {
+   border: 2px solid #003333;
+   font-size: 18px;
+   background-color: #003333;
+   color: WHITE;
 }
